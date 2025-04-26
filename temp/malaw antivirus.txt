@@ -1,0 +1,4 @@
+8RB49-Y61RF:XRHF-9UM2-9PPL-PYTF
+6XK14-E47FP:0E1X-5MC2-MGX7-UB41
+8RB49-Y61RF:XRHF-9UM2-9PPL-PYTF
+wmic path softwarelicensingservice get OA3xOriginalProductKey
